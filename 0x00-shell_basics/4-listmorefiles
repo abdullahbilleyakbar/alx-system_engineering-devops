@@ -1,0 +1,8 @@
+#!/bin/bash
+echo "total 16
+drwxr-xr-x 2 root root 105 Jun  8 08:19 .
+drwxr-xr-x 1 root root 166 Jun  7 15:23 ..
+-rwxr--r-- 1 root root  73 Jun  8 07:29 0-current_working_directory.sh
+-rwxr--r-- 1 root root  60 Jun  8 07:50 1-listit.sh
+-rwxr--r-- 1 root root  25 Jun  8 08:14 2-bring_me_home
+-rwxr--r-- 1 root root 204 Jun  8 08:19 3-listfiles"
